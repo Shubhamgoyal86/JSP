@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+HOME PAGE
+<meta charset="ISO-8859-1">
+<title></title>
+</head>
+<body>
+<br>
+<a  href="<%=request.getContextPath()%>/Controller?page=Login">Login</a>
+</body>
+</html>

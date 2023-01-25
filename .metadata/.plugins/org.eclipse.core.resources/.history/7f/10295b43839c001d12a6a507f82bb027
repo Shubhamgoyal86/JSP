@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="S01L08 - JSP Configuration in Deployment Decriptor">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <property name="context-root" value="S01L08_-_JSP_Configuration_in_Deployment_Decriptor"/>
+        <property name="java-output-path" value="/S01L08 - JSP Configuration in Deployment Decriptor/build/classes"/>
+    </wb-module>
+</project-modules>

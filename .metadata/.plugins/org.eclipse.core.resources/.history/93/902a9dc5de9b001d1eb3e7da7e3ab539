@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="S01L03 - JSP Expressions">
+        <property name="context-root" value="S01L03_-_JSP_Expressions"/>
+    </wb-module>
+</project-modules>

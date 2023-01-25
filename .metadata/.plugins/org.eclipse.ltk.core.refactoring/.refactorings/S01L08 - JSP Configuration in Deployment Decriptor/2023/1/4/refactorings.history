@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;S01L08 - JSP Configuration in Deployment Decriptor/src/main/webapp/asfasd.jsp&apos; to &apos;HelloJSP.jsp&apos;" description="Rename resource &apos;asfasd.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/asfasd.jsp" name="HelloJSP.jsp" stamp="1674632625050" updateReferences="true"/>
+</session>

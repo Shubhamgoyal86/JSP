@@ -1,0 +1,17 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Parameter url</title>
+</head>
+<body>
+<%
+out.println("value 1 is : "+request.getParameter("getvalue1"));
+out.println("<br>");
+out.println("value 2 is : "+request.getParameter("getvalue2"));
+
+%>
+</body>
+</html>

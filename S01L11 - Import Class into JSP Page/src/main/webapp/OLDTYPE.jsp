@@ -1,0 +1,21 @@
+<%@page import="org.apache.jasper.tagplugins.jstl.core.Import"%>
+<%@page import="java.util.Date"%>
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<!--  it is the basic And Lengthy -->
+<% out.println(new Date()); %>
+<br>
+<%@ page import = "java.util.Date,com.simplilearn.Userdefined"%>
+<%= new Date()%>
+<br>
+<% out.print(new Userdefined().message());%>
+
+</body>
+</html>
